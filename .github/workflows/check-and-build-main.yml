@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: "johntnw/sdte_lab_6:tagname:latest"
+          tags: "johntnw/sdte_lab_6:latest"
           push: true
